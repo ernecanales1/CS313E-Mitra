@@ -1,0 +1,8 @@
+-1.5 -0.75                       # coordinates of P
+0.0 0.0                       # coordinates of Q
+-3.0 5.0                        # coordinates of A
+-3.0 -1.5                      # coordinates of B
+0.0 -1.0                        # coordinates of G
+0.0 2.0                      # coordinates of H
+2.3 2.5 2.5                    # radius and coordinates of center of circleA
+1.5 -4.5 2.0                  # radius and coordinates of center of circleB
